@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liaquatalidev" alt="liaquatalidev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/liaquatalidev" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/liaquatalidev?logo=twitter&style=for-the-badge" alt="https://twitter.com/liaquatalidev" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript,Vue.js**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, WordPress**
@@ -14,6 +12,8 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, WordPress**
 
 - 📫 How to reach me **liaquat0323@gmail.com**
+
+![Example GIF](https://github.com/iliaquatali/image/blob/main/nightlife.gif)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
