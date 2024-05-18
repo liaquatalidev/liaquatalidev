@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Liaquat Ali</h1>
 <h3 align="center">"Experienced Web Developer | Proficient in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, WordPress | Website Speed Optimization"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liaquatalidev&label=Profile%20views&color=0e75b6&style=flat" alt="liaquatalidev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liaquatalidev" alt="liaquatalidev" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript,Vue.js**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, WordPress**
+- 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, and WordPress**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, WordPress**
 
