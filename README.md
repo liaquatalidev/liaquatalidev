@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liaquatalidev" alt="liaquatalidev" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Vue.js**
+- 🌱 I’m currently learning **Javascript,Python**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, SQL, MySQL, and WordPress**
 
