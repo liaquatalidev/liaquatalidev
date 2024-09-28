@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript,Python**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, Filament, SQL, MySQL, and WordPress**
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, Filament, SQL, MySQL, and WordPress**
+- 👯 I’m looking to collaborate and Ask me about **HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, Filament, SQL, MySQL, and WordPress**
 
 - 📫 How to reach me **liaquat0323@gmail.com**
 
